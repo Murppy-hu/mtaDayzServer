@@ -1,1 +1,4 @@
 [0.0.0.Alpha] - 2020.11.15
+#New Mysql System
+#New Core System
+#New Login System
