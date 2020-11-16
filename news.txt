@@ -1,4 +1,8 @@
-[0.0.0.Alpha] - 2020.11.15
+[0.0.1.Alpha] - 2020.11.16
+
 #New Mysql System
 #New Core System
-#New Login System
+#New Font System
+#New Logs System
+
+#Add community Notices System
